@@ -18,7 +18,6 @@ while True:
     input_ = input()
     tokens = input_.split(' ')
 
-
 form_value = tokens[0].upper()
 min_year = tokens[1]
 max_year = tokens[2]
