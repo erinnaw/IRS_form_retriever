@@ -9,5 +9,5 @@
 # part2.py
 **Downloads all PDF forms based on the form value and the year range input on the console terminal**
 - Run the program on the console terminal.
-- Input in the format of "`<Form Value> <Start Year> <End Year>`". Exclude the word "form". Example input, "w-2 2000 2008".
+- Input in the format of "\<Form Value> <Start Year> <End Year>". Exclude the word "form". Example input, "w-2 2000 2008".
 - The script will create a subdirectory within the project folder with the name of the form number, and download all forms with the exact form value in the year range requested. All PDF forms will be saved in the subdirectory. 
