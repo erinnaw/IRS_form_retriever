@@ -4,7 +4,7 @@
 **Returns data in JSON format based on the form value(s) input on the console terminal**
 - Run the program on the console terminal.
 - Input a list of form values of any size, each separated by a space. Exclude the word "form". Example input, "w-2 w-2g w-3 990-w".
-- The script will return a list of dictionary in JSOn format, detailing the form value, form title, minimum year and maximum year of each form value requested.
+- The script will return a list of dictionary in JSON format, detailing the form value, form title, minimum year and maximum year of each form value requested.
 
 # part2.py
 **Downloads all PDF forms based on the form value and the year range input on the console terminal**
